@@ -39,14 +39,16 @@ export default function Header({ data }) {
                     </li>
                     <li>
                         <a className="smoothscroll" href="#portfolio">
-                            Works
+                            Projects
                         </a>
                     </li>
+                    {/*
                     <li>
                         <a className="smoothscroll" href="#contact">
                             Contact
                         </a>
                     </li>
+                    */}
                 </ul>
             </nav>
 

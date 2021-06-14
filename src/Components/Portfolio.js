@@ -23,7 +23,7 @@ export default function Portfolio({ data }) {
             <Fade left duration={1000} distance="40px">
                 <div className="row">
                     <div className="twelve columns collapsed">
-                        <h1>Personal Projects Coming soon!</h1>
+                        <h1>Projects Coming soon!</h1>
                         {/*
                         <h1>Check Out Some of My Works.</h1>
                         <div
