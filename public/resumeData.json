@@ -3,7 +3,7 @@
         "name": "Ian Henderson",
         "description": "I am a full stack engineer with a specialization in TypeScript, Node.js, and React.",
         "image": "profilepic.jpg",
-        "bio": "I have five years of industry experience creating full stack applications using TypeScript, Node.js, GraphQL, React, React Native, and other tools in the JavaScript ecosystem. I love learning new programming languages and am currently learning Go to create WebRTC applications. I like to go on hikes and watch old movies in my free time.",
+        "bio": "I have five years of industry experience creating full stack applications using TypeScript, Node.js, GraphQL, React, React Native, and other tools in the JavaScript ecosystem. I love learning new technologies. I'm currently diving into AWS cloud development. I like to go on hikes and watch old movies in my free time.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "ianhenderson@pm.me",
         "phone": "469-769-9349",
@@ -88,6 +88,10 @@
                 "level": "80%"
             },
             {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
                 "name": "GraphQL",
                 "level": "80%"
             },
@@ -98,14 +102,6 @@
             {
                 "name": "SQL",
                 "level": "70%"
-            },
-            {
-                "name": "Go",
-                "level": "40%"
-            },
-            {
-                "name": "Python",
-                "level": "40%"
             }
         ]
     },
