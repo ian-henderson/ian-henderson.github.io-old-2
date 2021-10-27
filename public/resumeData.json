@@ -1,184 +1,190 @@
 {
-    "main": {
-        "name": "Ian Henderson",
-        "description": "I am a full stack engineer with a specialization in TypeScript, Node.js, and React.",
-        "image": "profilepic.jpg",
-        "bio": "I have five years of industry experience creating full stack applications using TypeScript, Node.js, GraphQL, React, React Native, and other tools in the JavaScript ecosystem. I love learning new technologies. I'm currently diving into AWS cloud development. I like to go on hikes and watch old movies in my free time.",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "ianhenderson@pm.me",
-        "phone": "469-769-9349",
-        "github": "https://github.com/ian-henderson",
-        "linkedIn": "https://linkedin.com/in/iancurtish/",
-        "address": {
-            "city": "Addison",
-            "state": "Texas",
-            "zip": "75001"
-        },
-        "website": "http://www.timbakerdev.com",
-        "resumePath": "files/resume.pdf",
-        "social": [
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/iancurtish/",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/ian-henderson",
-                "className": "fa fa-github"
-            }
-        ]
+  "main": {
+    "name": "Ian Henderson",
+    "description": "I am a full stack engineer with a specialization in TypeScript, Node.js, and React.",
+    "image": "profilepic.jpg",
+    "bio": "I have five years of industry experience creating full stack applications using TypeScript, Node.js, GraphQL, React, React Native, and other tools in the JavaScript ecosystem. I love learning new technologies. I'm currently diving into AWS cloud development. I like to go on hikes and watch old movies in my free time.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ianhenderson@pm.me",
+    "phone": "469-769-9349",
+    "github": "https://github.com/ian-henderson",
+    "linkedIn": "https://linkedin.com/in/iancurtish/",
+    "address": {
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "80206"
     },
-    "resume": {
-        "education": [
-            {
-                "school": "University of North Texas",
-                "degree": "Bachelor of Science in Computer Science",
-                "graduated": "May 2016",
-                "description": "Minor in Mathematics"
-            }
-        ],
-        "work": [
-            {
-                "company": "SAVI Controls",
-                "title": "Software Engineer",
-                "years": "May 2019 - September 2020",
-                "description": "Developed a website and accompanying iPhone app for SAVI's inventory management system. Developed a webapp to control gaming console streaming system that was developed for a client. Stack included React, React Native, TypeScript, GraphQL, Node.js, and MongoDB."
-            },
-            {
-                "company": "IBM",
-                "title": "Software Engineer",
-                "years": "September 2018 - May 2019",
-                "description": "Worked with a team to deliver a data-heavy webapp to manage IBM bare-metal and virtual servers. Most of my time was spent creating a reusable table component and corresponding GraphQL functionality to handle large, paginated data sets. Stack included JavaScript, GraphQL, and React."
-            },
-            {
-                "company": "Flywheel",
-                "title": "Software Engineer",
-                "years": "February 2018 - August 2018",
-                "description": "Worked with team to move code base away from Meteor.js towards microservices. Worked with a team to deliver a task management app for building maintainers. Stack included React, React Native, GraphQL, Node.js, and MongoDB."
-            },
-            {
-                "company": "Ulyngo",
-                "title": "Software Engineer",
-                "years": "November 2016 - December 2017",
-                "description": "Worked with a team to create a new marketplace UI in React. Maintained legacy PHP backend and SSO services."
-            },
-            {
-                "company": "Partnered",
-                "title": "Software Engineer Intern",
-                "years": "Summer 2016",
-                "description": "Helped build an email notification service with Python SendGrid and a simple messaging UI on Partnered's site."
-            }
-        ],
-        "skills": [
-            {
-                "name": "TypeScript / JavaScript",
-                "level": "95%"
-            },
-            {
-                "name": "React / Redux",
-                "level": "95%"
-            },
-            {
-                "name": "HTML / CSS",
-                "level": "90%"
-            },
-            {
-                "name": "React Native",
-                "level": "80%"
-            },
-            {
-                "name": "Python",
-                "level": "80%"
-            },
-            {
-                "name": "GraphQL",
-                "level": "80%"
-            },
-            {
-                "name": "MongoDB",
-                "level": "70%"
-            },
-            {
-                "name": "SQL",
-                "level": "70%"
-            }
-        ]
-    },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
-                "image": "01.jpg",
-                "url": "https://www.canadianwanderlust.com"
-            },
-            {
-                "title": "Fury Fighting Gear",
-                "category": "(offline now) A fighting gear company I started",
-                "image": "02.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "03.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-                "title": "Resume Website",
-                "category": "A React based resume website template",
-                "image": "04.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Smirkspace",
-                "category": "(MVP Only) A React and Meteor based chat University project.",
-                "image": "05.jpg",
-                "url": "http://www.smirkspace.com"
-            },
-            {
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
-                "image": "06.jpg",
-                "url": "https://www.canadianwanderlust.com"
-            },
-            {
-                "title": "Fury Fighting Gear",
-                "category": "(offline now) A fighting gear company I started",
-                "image": "01.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "02.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "03.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-                "title": "Resume Website",
-                "category": "A React based resume website template",
-                "image": "04.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Smirkspace",
-                "category": "(MVP Only) A React and Meteor based chat University project.",
-                "image": "05.jpg",
-                "url": "http://www.smirkspace.com"
-            },
-            {
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
-                "image": "06.jpg",
-                "url": "https://www.canadianwanderlust.com"
-            }
-        ]
-    }
+    "website": "http://www.timbakerdev.com",
+    "resumePath": "files/resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iancurtish/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ian-henderson",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of North Texas",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduated": "May 2016",
+        "description": "Minor in Mathematics"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bank of America",
+        "title": "Software Engineer",
+        "years": "September 2021 - Current",
+        "description": "Took ownership of DeltaApp, a React front-end tool to track internal applications. Converted significant parts of the app to TypeScript, set up Prettier and ESLint. Fixed various bugs. Added batch editing functionality to an existing Table component."
+      },
+      {
+        "company": "SAVI Controls",
+        "title": "Software Engineer",
+        "years": "May 2019 - September 2020",
+        "description": "Developed a website and accompanying iPhone app for SAVI's inventory management system. Developed a webapp to control gaming console streaming system that was developed for a client. Stack included React, React Native, TypeScript, GraphQL, Node.js, and MongoDB."
+      },
+      {
+        "company": "IBM",
+        "title": "Software Engineer",
+        "years": "September 2018 - May 2019",
+        "description": "Worked with a team to deliver a data-heavy webapp to manage IBM bare-metal and virtual servers. Most of my time was spent creating a reusable table component and corresponding GraphQL functionality to handle large, paginated data sets. Stack included JavaScript, GraphQL, and React."
+      },
+      {
+        "company": "Flywheel",
+        "title": "Software Engineer",
+        "years": "February 2018 - August 2018",
+        "description": "Worked with team to move code base away from Meteor.js towards microservices. Worked with a team to deliver a task management app for building maintainers. Stack included React, React Native, GraphQL, Node.js, and MongoDB."
+      },
+      {
+        "company": "Ulyngo",
+        "title": "Software Engineer",
+        "years": "November 2016 - December 2017",
+        "description": "Worked with a team to create a new marketplace UI in React. Maintained legacy PHP backend and SSO services."
+      },
+      {
+        "company": "Partnered",
+        "title": "Software Engineer Intern",
+        "years": "Summer 2016",
+        "description": "Helped build an email notification service with Python SendGrid and a simple messaging UI on Partnered's site."
+      }
+    ],
+    "skills": [
+      {
+        "name": "TypeScript / JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "React / Redux",
+        "level": "95%"
+      },
+      {
+        "name": "HTML / CSS",
+        "level": "95%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
 }
